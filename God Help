@@ -53,7 +53,7 @@ lbltitle.Active = true
 lbltitle.Draggable = false
 lbltitle.Selectable = true
 lbltitle.Font = Enum.Font.SourceSansBold
-lbltitle.Text = "A Simple Hump(ing) GUI!!"
+lbltitle.Text = "Fin's TPer! Delete name to unglue"
 lbltitle.TextColor3 = Color3.new(0, 0, 0)
 lbltitle.TextSize = 20
  
@@ -72,7 +72,7 @@ btnSex.Active = true
 btnSex.Draggable = false
 btnSex.Selectable = true
 btnSex.Font = Enum.Font.SourceSansBold
-btnSex.Text = "Let's Hump!!"
+btnSex.Text = "TP!"
 btnSex.TextColor3 = Color3.new(0, 0, 0)
 btnSex.TextSize = 20
  
@@ -90,7 +90,7 @@ tbxVictim.Active = true
 tbxVictim.Draggable = false
 tbxVictim.Selectable = true
 tbxVictim.Font = Enum.Font.SourceSansBold
-tbxVictim.Text = "[NAME]"
+tbxVictim.Text = "Name Of Target"
 tbxVictim.TextColor3 = Color3.new(0, 0, 0)
 tbxVictim.TextSize = 20
  
